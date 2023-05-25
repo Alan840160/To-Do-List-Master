@@ -3,8 +3,8 @@ import "./App.css";
 
 function App() {
   const [player, setPlayer] = useState<any>({
-    name: "Caio",
-    nickName: "maqueise",
+    name: " Alan ",
+    nickName: " da silva ",
     score: 10,
   });
 
